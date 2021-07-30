@@ -1,0 +1,11 @@
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\bin\Debug\Proj_DatasFMT.exe
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\bin\Debug\Proj_DatasFMT.pdb
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\bin\Debug\Proj_DatasFMT.xml
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\Proj_Datas_FMT.vbprojAssemblyReference.cache
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\Proj_DatasFMT.FRM_DATA_HORA.resources
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\Proj_DatasFMT.Resources.resources
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\Proj_Datas_FMT.vbproj.GenerateResource.cache
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\Proj_Datas_FMT.vbproj.CoreCompileInputs.cache
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\Proj_DatasFMT.exe
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\Proj_DatasFMT.xml
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\Proj_DatasFMT.pdb

@@ -1,0 +1,22 @@
+C:\Users\Administrador\Desktop\DATA_HORA\DATA_HORA\bin\Debug\DATA_HORA.exe
+C:\Users\Administrador\Desktop\DATA_HORA\DATA_HORA\bin\Debug\DATA_HORA.pdb
+C:\Users\Administrador\Desktop\DATA_HORA\DATA_HORA\bin\Debug\DATA_HORA.xml
+C:\Users\Administrador\Desktop\DATA_HORA\DATA_HORA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\DATA_HORA\DATA_HORA\obj\x86\Debug\DATA_HORA.FRM_DATA_HORA.resources
+C:\Users\Administrador\Desktop\DATA_HORA\DATA_HORA\obj\x86\Debug\DATA_HORA.Resources.resources
+C:\Users\Administrador\Desktop\DATA_HORA\DATA_HORA\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrador\Desktop\DATA_HORA\DATA_HORA\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrador\Desktop\DATA_HORA\DATA_HORA\obj\x86\Debug\DATA_HORA.exe
+C:\Users\Administrador\Desktop\DATA_HORA\DATA_HORA\obj\x86\Debug\DATA_HORA.xml
+C:\Users\Administrador\Desktop\DATA_HORA\DATA_HORA\obj\x86\Debug\DATA_HORA.pdb
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\bin\Debug\DATA_HORA.exe
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\bin\Debug\DATA_HORA.pdb
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\bin\Debug\DATA_HORA.xml
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\DATA_HORA.vbprojAssemblyReference.cache
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\DATA_HORA.FRM_DATA_HORA.resources
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\DATA_HORA.Resources.resources
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\DATA_HORA.vbproj.GenerateResource.cache
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\DATA_HORA.vbproj.CoreCompileInputs.cache
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\DATA_HORA.exe
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\DATA_HORA.xml
+D:\Projetos\000\0000 - OldMan\sln_final_desenvolvimento\DATA_HORA\DATA_HORA\obj\x86\Debug\DATA_HORA.pdb
